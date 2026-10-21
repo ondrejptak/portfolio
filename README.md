@@ -32,7 +32,7 @@ Personal portfolio site showcasing projects, stack, and contact information. Bui
 ### Install and run
 
 ```bash
-git clone https://github.com/florixak/portfolio.git
+git clone https://github.com/ondrejptak/portfolio.git
 cd portfolio
 npm install   # or: pnpm install
 npm run dev   # or: pnpm dev

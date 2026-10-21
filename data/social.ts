@@ -1,7 +1,7 @@
 export const social = [
   {
     label: "GitHub",
-    href: "https://github.com/florixak",
+    href: "https://github.com/ondrejptak",
   },
   {
     label: "LinkedIn",
